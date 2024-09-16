@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './Img/user.png'
+import logo from './Img/user.svg'
 import CardFooter from './Cadfooter'
 import Buttons from './Buttons'
 

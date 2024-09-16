@@ -1,9 +1,9 @@
 import React from 'react'
-import twitter from './Img/Twitter Icon.png'
-import facebook from './Img/Facebook Icon.png'
-import github from './Img/GitHub Icon.png'
-import instagram from './Img/Instagram Icon.png'
-import linkdin from './Img/Linkedin Icon.png'
+import twitter from './Img/Twitter Icon.svg'
+import facebook from './Img/Facebook Icon.svg'
+import github from './Img/GitHub Icon.svg'
+import instagram from './Img/Instagram Icon.svg'
+import linkdin from './Img/Linkedin Icon.svg'
 
 
 

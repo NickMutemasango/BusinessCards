@@ -1,6 +1,6 @@
 import React from 'react'
-import linkdin from './Img/linkedin.png'
-import mail from './Img/Mail.png'
+import linkdin from './Img/linkedin.svg'
+import mail from './Img/Mail.svg'
 
 
 const Buttons = (props) => {
